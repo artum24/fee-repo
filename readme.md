@@ -7,7 +7,7 @@ This TypeScript code calculates commission fees for users based on their cash-in
 ### Run project
 1. For build project run `npx tsc` 
 2. Please ensure that all required operations are included in the `input.json` file.
-3. To run the project, use the command `node dist/index.js input.json`.
+3. To run the project, use the command `node dist/commission.js input.json`.
 
 
 ### Test project
